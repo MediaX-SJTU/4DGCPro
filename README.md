@@ -15,7 +15,7 @@ Wenjun Zhang
 <a href="[https://arxiv.org/abs/2503.18421v1](https://arxiv.org/abs/2509.17513)](https://arxiv.org/abs/2509.17513)">[arXiv]</a>
 </div>
 </p>
-<img src='assert/4dgc.png' alt="sym" width="100%">
+<img src='img/teaser.png' alt="sym" width="100%">
 
 
 ## Citation
