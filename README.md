@@ -11,7 +11,7 @@ Wenjun Zhang
 
 <p>
 <div style="text-align: center;">
-<a href="https://mediax-sjtu.github.io/4DGCPro/">[Project Page]</a>,,
+<a href="https://mediax-sjtu.github.io/4DGCPro/">[Project Page]</a>,
 <a href="https://arxiv.org/abs/2509.17513">[arXiv]</a>
 </div>
 </p>
