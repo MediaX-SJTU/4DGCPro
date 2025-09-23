@@ -2,8 +2,8 @@
 
 <p>
 <div style="text-align: center;">
-<a href="https://zihanzheng-sjtu.github.io/">Zihan Zheng, Zhenlong Wu, Houqiang Zhong, Yuan Tian, Ning Cao, Lan Xu, Jiangchao Yao
-Xiaoyun Zhang, 
+<a href="https://zihanzheng-sjtu.github.io/">Zihan Zheng</a>, 
+Zhenlong Wu, Houqiang Zhong, Yuan Tian, Ning Cao, Lan Xu, Jiangchao Yao, Xiaoyun Zhang, 
 <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a><sup>&dagger;</sup>,
 Wenjun Zhang
 </div>
@@ -11,8 +11,8 @@ Wenjun Zhang
 
 <p>
 <div style="text-align: center;">
-<a href="[[https://mediax-sjtu.github.io/4dgc/](https://mediax-sjtu.github.io/4DGCPro/)](https://mediax-sjtu.github.io/4DGCPro/)">[Project Page]</a>,
-<a href="[https://arxiv.org/abs/2503.18421v1](https://arxiv.org/abs/2509.17513)](https://arxiv.org/abs/2509.17513)">[arXiv]</a>
+<a href="https://mediax-sjtu.github.io/4DGCPro/">[Project Page]</a>,,
+<a href="https://arxiv.org/abs/2509.17513">[arXiv]</a>
 </div>
 </p>
 <img src='img/teaser.png' alt="sym" width="100%">
