@@ -12,7 +12,8 @@ Wenjun Zhang
 <p>
 <div style="text-align: center;">
 <a href="https://mediax-sjtu.github.io/4DGCPro/">[Project Page]</a>,
-<a href="https://arxiv.org/abs/2509.17513">[arXiv]</a>
+<a href="https://arxiv.org/abs/2509.17513">[arXiv]</a>,
+<a href="https://1drv.ms/f/c/a0bac25e67f64e1d/ElI5ISz7c-5OvnfOrxDgNkgB2d9-kCdzqItXFBeb7QyeMg?e=t6OMIX">[Dataset]</a>
 </div>
 </p>
 <img src='img/teaser.png' alt="sym" width="100%">
